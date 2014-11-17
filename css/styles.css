@@ -1,11 +1,18 @@
 /* Your Website Styles */
+header {
+	font-family: 'Playfair Display SC', serif;
+
+}
 body {
 	background: #eee;
+	
 }
 
 
+
 div {
-	margin-top: -60px;	x 
+	margin-top: -60px;	
+	font-family: 'inherit', serif;
 }
 
 
