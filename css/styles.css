@@ -94,6 +94,11 @@ p,  h3, h5 {
 	background: #222222;
 	border-radius: 10px;
 }
+.likes {
+	padding: 0 0 50px 0;
+	background: #222222;
+	border-radius: 10px;
+}
 
 /* Show Grid */
 .showgrid {
