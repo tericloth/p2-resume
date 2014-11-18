@@ -34,13 +34,12 @@ div {
 .head img {
 	float: left;
 	height: 400px;
-	width: 400px;
+	width: 450px;
 	border-radius: 10px 10px 10px 10px;
 }
 
-.alpha {
-	margin-left: 0px;
-}
+
+
 
 h2, h4 {
 	color: white;
@@ -68,6 +67,9 @@ p,  h3, h5 {
 	width: 660px;
 }
 
+.grid_12 {
+	width: 1000px;
+}
 
 
 
