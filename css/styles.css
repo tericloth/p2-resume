@@ -12,6 +12,8 @@ body {
 	
 }
 
+
+
 div {
 	display: block;
 }
@@ -41,7 +43,7 @@ div {
 }
 
 h2, h4 {
-	color: blue;
+	color: white;
 	margin: 10px 0 0px 15px;
 	font-size: 1.25em;
 	display: block;
